@@ -1,2 +1,2 @@
 # RC-Circut-Application
-Solving 
+Solving RC Circut Application using ode45 solver
